@@ -1,6 +1,6 @@
 # nuclei-daily
 
-gets the newest PRs from nuclei-templates
+gets the newest PRs from nuclei-templates and download all newest templates
 
 # Install and Usage
 
